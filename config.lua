@@ -41,7 +41,7 @@ Config.Prizes = { -- Add whatever items here you want as prizes
     'funkopop_eevee',
     'funkopop_flareon',
     'funkopop_leonardo',
-    'funkopop_mewtw',
+    'funkopop_mewtwo',
     'funkopop_michelangelo',
     'funkopop_pikachu',
     'funkopop_raphael',
