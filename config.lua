@@ -40,7 +40,7 @@ Config.Prizes = { -- Add whatever items here you want as prizes
 
 Config.Text = {
     ['claw_machine'] = 'Claw Machine',
-    ['use_claw'] = 'Use Claw Machine ($1)',
+    ['use_claw'] = 'Use Claw Machine ($5)',
     ['grab_toy'] = 'Grabbing Toy...',
     ['ate_money'] = 'The machine ate your money...'
 }
