@@ -1,3 +1,5 @@
+This script was made by github.com/Demo4889/qb-clawmachine I simply just added 19 more funkopops for people who don't want to.
+
 # qb-clawmachine
 Claw Machine with Prizes (QBCore) - Uses <a href = 'https://github.com/BerkieBb/qb-target'>qb-target</a>
 
