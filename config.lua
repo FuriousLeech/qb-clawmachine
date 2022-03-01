@@ -35,7 +35,17 @@ Config.Prizes = { -- Add whatever items here you want as prizes
     'funkopop_groot',
     'funkopop_hulk',
     'funkopop_johnwick',
-    'funkopop_itachi'
+    'funkopop_itachi',
+    'funkopop_bulbasaur',
+    'funkopop_donatello',
+    'funkopop_eevee',
+    'funkopop_flareon',
+    'funkopop_leonardo',
+    'funkopop_mewtw',
+    'funkopop_michelangelo',
+    'funkopop_pikachu',
+    'funkopop_raphael',
+    'funkopop_squirtle'
 }
 
 Config.Text = {
